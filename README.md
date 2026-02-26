@@ -11,3 +11,4 @@ Na faculdade e em alguns projetos de teste de aprendizado, utilizei as seguintes
 HTML5 - Estruturação de conteúdo.
 CSS - Estilização e layout.
 JavaScript - Lógica e interatividade.
+TypeScript - Desenvolvimento com tipagem estática para maior segurança
